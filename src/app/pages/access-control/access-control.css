@@ -1,0 +1,30 @@
+.page{
+    display: flex;
+    height: 100vh;
+    background: #f6f7fb
+}
+.main{
+    flex: 1;
+    padding: 24px;
+}
+.breadcrumb{
+    color:#8b8b8b;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.card{
+    background: white;
+    border: 1px solid #eee;
+    padding:  30px;
+    min-height: 900px;
+}
+h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+hr{
+    margin: 40px, 0;
+    border: none;
+    border-top: 1px solid #eee
+}
